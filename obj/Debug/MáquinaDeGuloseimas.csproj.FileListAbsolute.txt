@@ -1,0 +1,11 @@
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\bin\Debug\MáquinaDeGuloseimas.exe.config
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\bin\Debug\MáquinaDeGuloseimas.exe
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\bin\Debug\MáquinaDeGuloseimas.pdb
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.csproj.AssemblyReference.cache
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.csproj.SuggestedBindingRedirects.cache
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.Form1.resources
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.Properties.Resources.resources
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.csproj.GenerateResource.cache
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.csproj.CoreCompileInputs.cache
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.exe
+C:\Users\natanael.apaula\source\repos\MáquinaDeGuloseimas\MáquinaDeGuloseimas\obj\Debug\MáquinaDeGuloseimas.pdb
